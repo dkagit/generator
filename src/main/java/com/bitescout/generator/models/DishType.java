@@ -1,0 +1,5 @@
+package com.bitescout.generator.models;
+
+public enum DishType {
+    MAINS, LIGHTS, BIRIYANI, CHUTNEY, FRIED_RICE, GRAVY, KUZHAMBU, PORIYAL, SAMBAR, TIFFIN, VARIETY_RICE, KURUMA,GENERIC_BITE
+}
